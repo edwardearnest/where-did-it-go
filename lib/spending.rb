@@ -1,4 +1,3 @@
-require_relative 'cashflow'
-class Spending < Cashflow
+class Spending
 
 end # class spending
